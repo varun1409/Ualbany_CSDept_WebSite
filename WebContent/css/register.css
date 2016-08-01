@@ -1,0 +1,163 @@
+.form
+{
+	margin-top: 100px;
+    /*margin-bottom: 100px;*/
+    margin-right: 200px;
+ margin-left: 350px;
+width:770px;
+color:black;
+font-weight:bold;
+font-family:Monospace;
+}
+
+
+.form th
+{
+	background:black;
+	color:white;
+}
+
+
+.form2 th
+{
+	background:black;
+	color:white;
+}
+
+.form2
+{
+	margin-top: 50px;
+    margin-bottom: 40px;
+    margin-right: 200px;
+ margin-left: 350px;
+width:770px;
+color:black;
+font-weight:bold;
+font-family:Monospace;
+}
+
+.form3
+{
+	margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+ margin-left: 350px;
+width:770px;
+color:black;
+font-weight:bold;
+font-family:Monospace;
+}
+
+.form4
+{
+	margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+ margin-left: 350px;
+width:770px;
+color:black;
+font-weight:bold;
+font-family:Monospace;
+}
+
+div.tableform label
+{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 145px;
+    text-align: left;
+    font-family:Monospace;
+}
+div.tableform td div
+{
+color:red;
+font-weight:bold;
+font-family:Monospace;
+}
+
+
+
+
+
+div.ui-datepicker{
+ font-size:10px;
+}
+
+
+.nav
+{
+	height:50px;
+	width:60px;
+	/*margin-top:100px;*/
+	float:left;
+	margin-top: 100px;
+}
+
+
+
+
+.button {
+    background-color: black;
+    color: white;
+    border: 2px solid #555555;
+    font-family:Monospace;
+    width:80px;
+    height:30px;
+}
+.button:hover
+{
+	background-color: orange;
+}
+
+.buttongreen {
+    background-color: green;
+    color: white;
+    border: 2px solid #555555;
+    font-family:Monospace;
+    width:80px;
+    height:30px;
+}
+
+.buttongray {
+    background-color: red;
+    color: white;
+    border: 2px solid #555555;
+    font-family:Monospace;
+    width:80px;
+    height:30px;
+}
+
+.buttongreen:hover
+{
+	background-color: orange;
+}
+
+
+.header {
+   
+    height:75px;
+	width:100%;
+	padding:5px;
+	background-color:black;
+    font-family:Monospace;
+    color:white;
+    text-align:center;
+    font-size:17px;
+}
+
+.footer
+{
+	
+	height:15px;
+	width:100%;
+	padding:5px;
+	
+    font-family:Monospace;
+    color:black;
+    text-align:center;
+    font-size:10px;
+    position:fixed;
+	 bottom:0;
+	 left:0;
+}
